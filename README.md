@@ -16,4 +16,4 @@ Essentials for Report:
 1. Data description
 2. what classifier we used
 3. rules for classify
-4. Performance Evaluation (10-fold cross0validation)
+4. Performance Evaluation (10-fold cross validation)
