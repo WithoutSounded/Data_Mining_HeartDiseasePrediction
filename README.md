@@ -17,3 +17,5 @@ Essentials for Report:
 2. what classifier we used
 3. rules for classify
 4. Performance Evaluation (10-fold cross-validation)
+
+report : https://hackmd.io/@WithoutSounded/HeartFailurePrediction
